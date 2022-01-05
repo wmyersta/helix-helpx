@@ -4,7 +4,7 @@
 
 body {
     background: #ffffff;
-    font-family: 'adobe clean';
+    font-family: 'arial';
     margin: 20;
 }
 
@@ -23,8 +23,7 @@ body {
     padding: 0 0 48px 0;
 }
 
-h1, h2 {
-    font-family: 'adobe clean';
+h1, h2, p {
     position: relative;
     padding: 6px 24px;
     margin: 0;
