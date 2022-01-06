@@ -24,6 +24,7 @@ body {
 p {
     font-weight: 500;
     font-size: 25px;
+    color: #333;
     position: relative;
     padding: 6px 24px;
     margin: 0;
@@ -50,11 +51,11 @@ h3  {
     flex: 1 1 auto;
 }
 
-.hero picture {
-    display: block;
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
+h1  {
+    position: relative;
+    padding: 6px 24px;
+    margin: 0;
+    font-size: 23px;
+    position: relative;
+    flex: 1 1 auto;
 }
