@@ -31,12 +31,22 @@ p {
     flex: 1 1 auto;
 }
 
+li {
+    font-weight: 500;
+    font-size: 25px;
+    color: #333;
+    position: relative;
+    padding: 6px 24px;
+    margin: 0;
+    flex: 1 1 auto;
+}
+
 h2  {
     position: relative;
     padding: 6px 24px;
     margin: 0;
     flex: 1 1 auto;
-    font-size: 25px;
+    font-size: 21px;
     line-height: 32px;
     color: #666;
     font-weight: 300;
