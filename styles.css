@@ -29,12 +29,20 @@ h1, p {
 }
 
 h2  {
+    position: relative;
+    padding: 6px 24px;
+    margin: 0;
+    flex: 1 1 auto;
     font-size: 25px;
     line-height: 32px;
     color: #666;
+    font-weight: 300;
     }
 
 h3
+    position: relative;
+    padding: 6px 24px;
+    margin: 0;
     font-size: 23px;
     position: relative;
     flex: 1 1 auto;
