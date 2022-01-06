@@ -8,7 +8,11 @@ body {
     margin: 40;
 }
 
-
+@media (min-width: 1200px) {
+  main > div {
+    max-width: 1024px;
+  }
+    
 .main > div {
     display: flex;
     flex-direction: column;
