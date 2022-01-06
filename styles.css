@@ -21,7 +21,9 @@ body {
     padding: 0 0 48px 0;
 }
 
-h1, p {
+p {
+    font-weight: 500;
+    font-size: 25px;
     position: relative;
     padding: 6px 24px;
     margin: 0;
