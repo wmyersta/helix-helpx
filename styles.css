@@ -37,6 +37,13 @@ li {
     color: #333;
 }
 
+h1  {
+    font-size: 36px;
+    line-height: 1.15;
+    font-weight: 500;
+    word-break: break-word;
+}
+
 h2  {
     font-size: 21px;
     line-height: 32px;
@@ -47,13 +54,6 @@ h2  {
 h3  {
     font-size: 23px;
     font-weight: 500;
-}
-
-h1  {
-    font-size: 1.5rem;
-    line-height: 1.15;
-    font-weight: 500;
-    word-break: break-word;
 }
 
 h4  {
