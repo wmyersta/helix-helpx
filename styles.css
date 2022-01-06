@@ -4,7 +4,7 @@
 
 body {
     background: #ffffff;
-    font-family: 'adobe clean';
+    font-family: 'adobe clean,"HelveticaNeue-light","Helvetica Neue",Helvetica,Arial,sans-serif';
     margin: 40;
 }
 
@@ -32,8 +32,9 @@ p {
 }
 
 li {
-    font-weight: 500;
-    font-size: 25px;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 1.5;
     color: #333;
     position: relative;
     padding: 6px 24px;
