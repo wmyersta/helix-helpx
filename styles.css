@@ -21,18 +21,22 @@ body {
     padding: 0 0 48px 0;
 }
 
-h1, h2, p {
+h1, p {
     position: relative;
     padding: 6px 24px;
     margin: 0;
     flex: 1 1 auto;
 }
 
+h2  {
+    font-size: 25px;
+    line-height: 32px;
+    color: #666;
+    }
+
 h3
     font-size: 23px;
     position: relative;
-    padding: 6px 24px;
-    margin: 0;
     flex: 1 1 auto;
 }
 
