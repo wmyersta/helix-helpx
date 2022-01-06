@@ -18,17 +18,16 @@ body {
     flex-wrap: wrap;
     align-content: flex-start;
     max-width: 1200px;
-    padding: 0 0 48px 0;
+    padding: 6px 24px;
+    margin: 0;
+    flex: 1 1 auto;
+    position: relative;
 }
 
 p {
     font-weight: 500;
     font-size: 25px;
-    color: #333;
-    position: relative;
-    padding: 6px 24px;
-    margin: 0;
-    flex: 1 1 auto;
+    color: #333;   
 }
 
 li {
@@ -36,17 +35,9 @@ li {
     font-size: 21px;
     line-height: 1.5;
     color: #333;
-    position: relative;
-    padding: 6px 24px;
-    margin: 0;
-    flex: 1 1 auto;
 }
 
 h2  {
-    position: relative;
-    padding: 6px 24px;
-    margin: 0;
-    flex: 1 1 auto;
     font-size: 21px;
     line-height: 32px;
     color: #666;
@@ -54,20 +45,16 @@ h2  {
     }
 
 h3  {
-    position: relative;
-    padding: 6px 24px;
-    margin: 0;
     font-size: 23px;
-    position: relative;
-    flex: 1 1 auto;
     font-weight: 500;
 }
 
 h1  {
-    position: relative;
-    padding: 6px 24px;
-    margin: 0;
-    font-size: 23px;
-    position: relative;
-    flex: 1 1 auto;
+   font-size: 23px;
+}
+
+h4  {
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 500;
 }
