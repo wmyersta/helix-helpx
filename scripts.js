@@ -22,11 +22,6 @@ const config = {
             location: '/blocks/social/',
             styles: 'social.css',
         },
-        '.partner-carousel': {
-            location: '/blocks/partner-carousel/',
-            styles: 'partner-carousel.css',
-            scripts: 'partner-carousel.js',
-        },
         '.aside': {
             lazy: true,
             location: '/blocks/aside/',
