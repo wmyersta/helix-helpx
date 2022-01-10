@@ -8,7 +8,11 @@ body {
     margin: 40;
 }
 
-@media (min-width: 1200px) {
+picture {
+    display: block;
+}
+
+@media (min-width: 1024px) {
   main > div {
     max-width: 1024px;
   }
@@ -19,7 +23,7 @@ body {
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    max-width: 1200px;
+    width: 1440px;
     padding: 6px 24px;
     margin: 0;
     flex: 1 1 auto;
