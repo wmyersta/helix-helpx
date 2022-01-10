@@ -17,13 +17,13 @@ picture {
     max-width: 1024px;
   }
     
-.main > div > div {
+.main {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    width: 144px;
+    flex: 200px;
     padding: 6px 24px;
     margin: 0;
     flex: 1 1 auto;
