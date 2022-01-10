@@ -13,11 +13,11 @@ picture {
 }
 
 @media (min-width: 1024px) {
-  main > div {
+  .main {
     max-width: 1024px;
   }
     
-.main > div {
+.main {
     display: flex;
     flex-direction: column;
     align-items: center;
