@@ -17,7 +17,7 @@ picture {
     max-width: 1024px;
   }
     
-main > div > div {
+.main > div > div {
     display: flex;
     flex-direction: column;
     align-items: center;
