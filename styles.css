@@ -21,7 +21,7 @@ picture {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: start;
     flex-wrap: wrap;
     flex: 200px;
     padding: 6px 24px;
