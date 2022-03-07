@@ -20,7 +20,7 @@ picture {
 .main > div > div {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
     justify-content: start;
     flex-wrap: wrap;
     flex: 200px;
